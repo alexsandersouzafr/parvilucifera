@@ -7,8 +7,9 @@
 	Web Developoer - Parvilucifera
 </p>
 
-Hello, world! I'm a Web Developer based in Brazil. I'm a very creative and easy-going person, always doing my best to reach effective solutions. I see myself ever open to knowing more. I'm also a composer and violinist and spent my whole life working on music and artistic industry. I've learned how to code through CS50 by Harvard. Languages I speak fluently: <img src="https://img.icons8.com/color/20/000000/brazil-circular.png"/>
-			<img src="https://img.icons8.com/color/20/000000/great-britain-circular.png"/>. Languages I'm learning: <img src="https://img.icons8.com/color/20/000000/france-circular.png"/>
+Hello, world! I'm a Web Developer based in Brazil. I'm a very creative and easy-going person, always doing my best to reach effective solutions. I see myself ever open to knowing more. I'm also a composer and violinist and spent my whole life working on music and artistic industry. I've learned how to code through CS50 by Harvard.<br /> Languages I speak: <img src="https://img.icons8.com/color/20/000000/brazil-circular.png"/>
+			<img src="https://img.icons8.com/color/20/000000/great-britain-circular.png"/>
+			<img src="https://img.icons8.com/color/20/000000/france-circular.png"/>
 			<img src="https://img.icons8.com/color/20/000000/japan-circular.png"/>.
 
 <p>
