@@ -7,7 +7,7 @@
 
 
 Hello, world! I'm a Web Developer based in Brazil. I'm a very creative and easy-going person, always doing my best to reach effective solutions. I see myself ever open to knowing more. I'm also a composer and violinist and spent my whole life working on music and artistic industry. I've learned how to code through CS50 by Harvard.
-<p><strong>Stacks:</strong></p>
+<p><strong>Techologies I work with:</strong></p>
 <p>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
