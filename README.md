@@ -28,3 +28,5 @@ Hello, world! I'm a Web Developer based in Brazil. I'm a very creative and easy-
 	<img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/>
 	<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </p>
+
+<p align="right">DOCERE, MOVERE ET DELECTARE.</p>
